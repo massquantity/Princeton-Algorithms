@@ -4,8 +4,3 @@
 [官方代码](https://algs4.cs.princeton.edu/code/)
 
 ![](https://raw.githubusercontent.com/massquantity/Princeton-Algorithms/master/pic/000.png)
-
-ada
-gfd
-fcgf
-fdg
