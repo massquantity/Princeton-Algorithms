@@ -5,4 +5,4 @@
 
 ![](https://raw.githubusercontent.com/massquantity/Princeton-Algorithms/master/pic/000.png)
 
-示范点
+
